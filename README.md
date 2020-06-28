@@ -43,5 +43,5 @@ Trends:
 
 ## REPOSITORY DETAILS
 Access -
-1. [Data](https://github.com/arnavd17/Customer-Retention-Strategies/blob/master/data/Online%20Retail.xlsx)
-2. [Code](https://github.com/arnavd17/Customer-Retention-Strategies/blob/master/code/script_final.ipynb)
+1. [Data](https://github.com/arnavd17/Stock-Prediction-using-Prophet/blob/master/Stock_Prediction_using_Prophet.ipynb)
+2. [Code](https://www.kaggle.com/camnugent/sandp500)
