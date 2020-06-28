@@ -43,5 +43,5 @@ Trends:
 
 ## REPOSITORY DETAILS
 Access -
-1. [Data](https://github.com/arnavd17/Stock-Prediction-using-Prophet/blob/master/Stock_Prediction_using_Prophet.ipynb)
-2. [Code](https://www.kaggle.com/camnugent/sandp500)
+1. [Data](https://www.kaggle.com/camnugent/sandp500)
+2. [Code](https://github.com/arnavd17/Stock-Prediction-using-Prophet/blob/master/Stock_Prediction_using_Prophet.ipynb)
