@@ -1,5 +1,6 @@
 # Stock-Prediction-using-Prophet
 
+![](https://wallpapercave.com/wp/wp2128226.jpg)
 ## INTRODUCTION
 "The stock market is like a beauty contest where you make money not by selecting which face you think is the prettiest, but by guessing who others will think the prettiest" - Anonymous
 
